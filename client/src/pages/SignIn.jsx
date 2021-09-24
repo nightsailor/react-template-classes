@@ -64,7 +64,6 @@ const LoginInput = styled.input`
   font-size: 18px;
   padding-left: 20px;
   &:focus {
-    border: 5px solid green;
     outline: none;
   }
 `
@@ -164,9 +163,9 @@ class SignIn extends Component {
       <Login>
         <LoginWrapper>
           <LoginLeft>
-            <LoginLogo>Online School</LoginLogo>
+            <LoginLogo>Logo Here</LoginLogo>
             <LoginDesc>
-              Conduct or Attend class in virtual mode.
+              Description of the MERN Project.
             </LoginDesc>
             </LoginLeft>
           <LoginRight>

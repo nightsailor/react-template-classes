@@ -43,7 +43,7 @@ class Links extends Component {
         return (
             <React.Fragment>
                 <Link to="/" className="navbar-brand">
-                    Online School
+                    Application Name
                 </Link>
                 <Collapse>
                     <List>
